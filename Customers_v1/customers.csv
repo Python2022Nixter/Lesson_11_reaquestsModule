@@ -1,0 +1,101 @@
+customer_id ; customer_first_name ; customer_second_name ; customer_mail ; customer_phone1 ; customer_phone2 ; customer_city ; customer_country ; customer_orderdate ; customer_orderamount ; customer_orderstatus 
+1; Fox ; Hyde ; pretium.et@condimentum.net ; 673-35-716-25-87 ; 090-58-956-22-86 ; Chicago ; San Marino ; 28.10.21 ; $2578.12 ; ordered 
+2; Higgins ; Ford ; vulputate@ipsumacmi.net ; 670-83-801-42-63 ; 970-86-278-02-54 ; Panchi� ; Belarus ; 12.12.19 ; $3364.24 ; ordered 
+3; Calderon ; Sampson ; mauris.aliquam.eu@sed.co.uk ; 215-47-118-24-22 ; 117-89-157-91-58 ; Walhain-Saint-Paul ; Saint Helena, Ascension and Tristan da Cunha ; 20.11.20 ; $7730.96 ; payed 
+4; Park ; Haley ; vitae.posuere@faucibusut.org ; 372-48-223-29-78 ; 874-47-373-05-34 ; Flushing ; Mexico ; 31.05.21 ; $8211.16 ; shipped 
+5; Good ; Welch ; sed@suscipitest.com ; 849-27-819-47-95 ; 593-57-367-76-31 ; Chepstow ; Russian Federation ; 20.07.21 ; $1352.52 ; ordered 
+6; Kerr ; Franks ; Nulla@ligulaDonec.org ; 381-30-474-79-88 ; 285-98-456-47-00 ; R�dermark ; Bermuda ; 22.08.20 ; $2686.13 ; payed 
+7; Stuart ; Bowen ; in.felis.Nulla@egetipsum.ca ; 804-72-898-75-50 ; 327-67-329-85-99 ; Berlin ; Monaco ; 02.04.20 ; $6881.88 ; payed 
+8; Franks ; Gordon ; vestibulum.nec@tempordiamdictum.org ; 552-79-858-27-25 ; 225-31-202-78-72 ; Charters Towers ; Cyprus ; 05.12.19 ; $6334.79 ; completed 
+9; Aguirre ; Vance ; Phasellus.dolor.elit@lectus.co.uk ; 198-26-118-14-94 ; 134-47-416-13-86 ; Zittau ; Philippines ; 04.03.21 ; $6937.84 ; completed 
+10; Herrera ; Summers ; est.Mauris@hendrerit.com ; 523-11-150-76-85 ; 464-50-428-77-55 ; Milestone ; Puerto Rico ; 27.11.19 ; $8873.97 ; payed 
+11; Booker ; Dunn ; Vivamus.nibh.dolor@musAeneaneget.com ; 538-42-817-82-65 ; 904-72-149-26-31 ; L?vis ; Portugal ; 01.09.21 ; $2578.35 ; shipped 
+12; Obrien ; Day ; ligula.elit.pretium@Nullamut.ca ; 928-45-442-95-31 ; 777-60-478-01-17 ; Legal ; Taiwan ; 11.10.20 ; $8353.58 ; shipped 
+13; Ellis ; Hutchinson ; sed.facilisis@rutrumjusto.net ; 219-48-108-31-04 ; 736-69-922-16-05 ; Courbevoie ; Saint Vincent and The Grenadines ; 19.05.21 ; $2531.10 ; shipped 
+14; Davenport ; Allison ; vestibulum@ProinultricesDuis.ca ; 274-89-558-74-44 ; 930-94-116-20-27 ; Sinaai-Waas ; American Samoa ; 28.10.20 ; $1290.34 ; payed 
+15; Holcomb ; Bonner ; sit.amet.ultricies@sit.com ; 781-18-282-81-16 ; 977-88-178-43-59 ; Tiel ; Cook Islands ; 22.04.20 ; $5059.49 ; completed 
+16; Parsons ; Dawson ; Curae.Phasellus.ornare@aliquetmetus.ca ; 872-92-223-49-02 ; 122-76-465-12-15 ; Viggianello ; Croatia ; 08.08.21 ; $1923.63 ; shipped 
+17; Stanton ; Benton ; elit@ideratEtiam.org ; 155-69-530-14-75 ; 853-64-909-88-21 ; Saint-Oyen ; Pitcairn Islands ; 02.06.20 ; $9623.37 ; ordered 
+18; Adams ; Spears ; arcu@nullaInteger.edu ; 457-38-289-15-19 ; 707-46-312-28-18 ; Newport News ; Bolivia ; 14.08.21 ; $1466.00 ; ordered 
+19; Whitney ; Maddox ; ante@mifringilla.ca ; 708-13-663-95-87 ; 095-53-881-42-87 ; Omsk ; Laos ; 15.02.21 ; $9490.00 ; completed 
+20; Reyes ; Boyer ; Praesent.luctus@sitametultricies.org ; 811-51-721-63-98 ; 386-59-629-47-18 ; Arsimont ; Vanuatu ; 29.04.21 ; $8183.88 ; completed 
+21; Solomon ; Wolfe ; Aliquam.erat.volutpat@nasceturridiculusmus.co.uk ; 332-27-932-73-24 ; 211-45-687-88-12 ; Chattanooga ; Bahamas ; 17.07.21 ; $3569.36 ; ordered 
+22; Hopkins ; Wilkerson ; augue.Sed.molestie@ridiculusmusDonec.co.uk ; 299-65-257-87-72 ; 190-64-758-06-13 ; Chill�n Viejo ; Congo, the Democratic Republic of the ; 22.10.20 ; $3236.24 ; ordered 
+23; Carver ; Mack ; enim@quis.edu ; 343-24-861-79-78 ; 360-46-692-10-40 ; Todi ; Azerbaijan ; 20.09.20 ; $1686.23 ; payed 
+24; Key ; Cotton ; Proin@ligulaNullamenim.org ; 473-82-732-28-95 ; 284-55-413-30-22 ; Bhusawal ; Jordan ; 29.11.19 ; $7403.92 ; ordered 
+25; Jenkins ; Olsen ; velit.Quisque.varius@metus.org ; 969-59-100-09-19 ; 333-52-523-00-56 ; Curarrehue ; Indonesia ; 06.10.20 ; $9295.66 ; completed 
+26; Hood ; Conrad ; interdum@ipsumprimis.com ; 211-38-486-46-99 ; 133-54-836-28-70 ; Frankenthal ; Andorra ; 20.03.20 ; $6254.56 ; ordered 
+27; Soto ; Fields ; malesuada.malesuada.Integer@risus.co.uk ; 494-90-841-43-52 ; 595-60-322-34-97 ; Delft ; San Marino ; 11.12.19 ; $1346.70 ; payed 
+28; Buchanan ; Kemp ; lacus.vestibulum@Morbiquis.edu ; 347-93-314-89-73 ; 807-67-278-92-62 ; Wunstorf ; Bhutan ; 13.04.20 ; $1438.45 ; ordered 
+29; Fields ; Clarke ; molestie.arcu.Sed@Aliquamauctorvelit.co.uk ; 875-86-640-04-50 ; 778-13-526-04-91 ; Westmalle ; Kuwait ; 06.01.20 ; $4682.10 ; ordered 
+30; Le ; Miles ; semper@massanon.ca ; 563-61-776-14-26 ; 618-39-521-64-95 ; Ukkel ; Tuvalu ; 01.02.21 ; $6162.82 ; completed 
+31; Mcknight ; Cervantes ; neque.sed@nequeet.ca ; 841-24-594-77-04 ; 108-98-877-89-90 ; San Calogero ; Dominican Republic ; 13.10.21 ; $9982.16 ; payed 
+32; Brooks ; Mcpherson ; adipiscing.fringilla@disparturientmontes.com ; 168-44-779-46-21 ; 434-62-233-78-65 ; Acquafondata ; Bolivia ; 04.05.21 ; $4346.32 ; ordered 
+33; Lindsey ; Hines ; mi.fringilla.mi@lectusantedictum.edu ; 027-19-586-60-23 ; 334-59-319-71-55 ; Fraserburgh ; Timor-Leste ; 28.09.21 ; $4483.42 ; shipped 
+34; Dickerson ; Holcomb ; ligula@ridiculusmusDonec.org ; 228-43-479-33-88 ; 994-80-422-27-84 ; Ayd?n ; Congo (Brazzaville) ; 07.10.20 ; $7961.04 ; completed 
+35; Schmidt ; Hicks ; lectus.a@eratVivamusnisi.com ; 940-39-941-15-07 ; 889-73-952-43-61 ; Saharanpur ; Liberia ; 24.01.21 ; $8687.91 ; ordered 
+36; Rios ; Roberson ; ornare@magna.org ; 397-68-565-79-50 ; 487-14-586-40-10 ; Heilbronn ; Saint Barth�lemy ; 07.04.21 ; $3145.33 ; shipped 
+37; Mccarty ; Coleman ; sem@Sedcongueelit.com ; 155-67-743-67-82 ; 492-17-349-81-56 ; Biloxi ; Montserrat ; 13.07.21 ; $2115.16 ; ordered 
+38; Houston ; Baker ; orci.Ut@euodioPhasellus.ca ; 730-59-977-05-53 ; 527-83-601-12-37 ; Miraflores ; Argentina ; 22.08.20 ; $9130.07 ; shipped 
+39; Mejia ; David ; Curabitur.massa.Vestibulum@Duissitamet.net ; 614-12-717-96-87 ; 071-20-928-99-45 ; Kiel ; United States Minor Outlying Islands ; 26.12.20 ; $3614.98 ; shipped 
+40; Jimenez ; Tyler ; fringilla.euismod@arcuVestibulumante.co.uk ; 062-30-525-33-62 ; 447-91-639-03-26 ; Caen ; Guinea ; 02.04.20 ; $9579.43 ; completed 
+41; Kidd ; Kidd ; arcu.Sed.et@diameu.com ; 989-41-355-26-53 ; 199-94-622-22-31 ; Weiterstadt ; Falkland Islands ; 07.02.21 ; $9335.55 ; shipped 
+42; Medina ; Barlow ; consequat@magnaUttincidunt.com ; 643-55-505-13-70 ; 035-77-848-93-11 ; Wels ; Holy See (Vatican City State) ; 16.04.21 ; $4176.77 ; ordered 
+43; Benton ; Aguilar ; Sed.neque.Sed@sollicitudin.com ; 745-40-825-19-80 ; 670-22-306-46-43 ; Nieuwegein ; Qatar ; 02.02.21 ; $4150.21 ; payed 
+44; Sanford ; Edwards ; magnis.dis@ultricesDuis.co.uk ; 249-28-955-97-91 ; 510-44-790-57-56 ; Belgrave ; Maldives ; 11.02.20 ; $4596.77 ; payed 
+45; Joyce ; Simmons ; Aliquam.nisl@consequatenimdiam.org ; 772-40-286-81-46 ; 275-83-614-21-21 ; Mumbai ; Greece ; 14.05.21 ; $3277.52 ; completed 
+46; Olsen ; Rhodes ; augue.eu@DuisgravidaPraesent.co.uk ; 636-58-550-79-28 ; 974-58-972-10-71 ; Naperville ; South Africa ; 23.12.20 ; $1318.71 ; completed 
+47; Morgan ; Clarke ; consequat.purus@leoCrasvehicula.ca ; 208-59-652-83-36 ; 587-93-350-12-02 ; Zamora de Hidalgo ; Uganda ; 14.09.21 ; $1594.31 ; ordered 
+48; Pittman ; Mcknight ; sit.amet@temporeratneque.net ; 920-72-662-62-26 ; 872-22-811-31-62 ; Carbonear ; Madagascar ; 05.03.20 ; $9794.50 ; shipped 
+49; Barry ; Hester ; lobortis.nisi.nibh@eueleifendnec.co.uk ; 595-79-519-88-91 ; 254-48-861-38-79 ; Inuvik ; Palau ; 09.03.20 ; $8877.05 ; completed 
+50; Stevenson ; Spencer ; consequat@magnaPhasellus.org ; 540-12-530-72-34 ; 162-10-614-88-67 ; North Shore ; Heard Island and Mcdonald Islands ; 29.06.21 ; $5411.00 ; completed 
+51; Randall ; Simmons ; dignissim.lacus@Sedegetlacus.edu ; 112-25-202-67-96 ; 583-77-734-28-26 ; Retford ; Ghana ; 26.07.21 ; $9935.43 ; ordered 
+52; Sweet ; Jackson ; diam@diam.com ; 296-98-229-15-35 ; 798-13-949-00-66 ; Gilly ; Eritrea ; 23.02.20 ; $7793.66 ; completed 
+53; Diaz ; Booth ; pellentesque.Sed.dictum@Phaselluslibero.org ; 040-60-892-19-42 ; 235-52-876-32-21 ; Savannah ; Sint Maarten ; 22.11.20 ; $8753.03 ; shipped 
+54; Whitley ; Raymond ; Fusce@urnaNullamlobortis.ca ; 665-73-968-48-77 ; 644-79-476-92-90 ; Washuk ; Cuba ; 26.09.20 ; $5944.07 ; shipped 
+55; Pollard ; Jarvis ; eu.turpis.Nulla@facilisisegetipsum.org ; 255-88-165-11-26 ; 312-11-102-48-39 ; Moradabad ; Algeria ; 21.02.20 ; $2680.24 ; ordered 
+56; Browning ; Koch ; luctus@Aliquam.com ; 135-28-422-15-03 ; 399-71-101-86-95 ; Lowestoft ; United Arab Emirates ; 01.07.20 ; $9843.48 ; completed 
+57; Franks ; Guy ; risus.a.ultricies@dolornonummyac.net ; 785-73-440-65-46 ; 204-16-292-91-19 ; La Hulpe ; Bonaire, Sint Eustatius and Saba ; 05.04.21 ; $1425.47 ; shipped 
+58; Robertson ; Short ; nec@euismodin.com ; 730-95-103-99-39 ; 145-52-277-92-40 ; Prince Albert ; New Zealand ; 02.08.21 ; $1708.22 ; completed 
+59; Terry ; Rush ; Integer.eu.lacus@natoquepenatibus.ca ; 184-39-829-09-70 ; 071-93-777-18-54 ; Bienne-lez-Happart ; Sao Tome and Principe ; 27.08.20 ; $6633.66 ; completed 
+60; Stanley ; Black ; sagittis.Duis.gravida@pharetrased.net ; 312-26-930-34-27 ; 748-85-110-70-16 ; Drayton Valley ; Spain ; 22.08.21 ; $3054.11 ; completed 
+61; Levine ; Barrera ; lorem.vitae@erat.org ; 270-83-474-00-16 ; 980-44-826-93-67 ; Roccasicura ; Comoros ; 09.02.21 ; $9178.31 ; shipped 
+62; Pate ; Kirkland ; et@acrisusMorbi.edu ; 632-10-195-06-55 ; 611-90-967-90-52 ; Overmere ; Egypt ; 13.08.21 ; $5981.03 ; payed 
+63; Sykes ; Bates ; Nunc.laoreet@ametluctusvulputate.org ; 116-43-428-81-09 ; 157-53-551-81-48 ; Campomorone ; Sierra Leone ; 10.01.20 ; $5030.41 ; ordered 
+64; Hardy ; Combs ; tristique.ac.eleifend@auguemalesuadamalesuada.ca ; 820-86-915-59-43 ; 373-38-764-10-53 ; Wijshagen ; Zimbabwe ; 23.12.20 ; $3055.35 ; completed 
+65; Riggs ; Cantu ; pharetra.nibh.Aliquam@Sedauctor.co.uk ; 406-53-655-38-98 ; 714-83-958-02-28 ; Gelbressee ; Philippines ; 04.09.21 ; $5952.31 ; payed 
+66; Reeves ; Michael ; Cras.convallis.convallis@ametante.co.uk ; 210-11-228-75-97 ; 864-62-384-64-14 ; Tullibody ; Croatia ; 26.04.20 ; $2079.40 ; payed 
+67; Pierce ; Hopper ; nulla.ante@eteuismod.com ; 486-74-983-16-22 ; 582-27-583-04-61 ; Montel�bano ; Seychelles ; 09.10.20 ; $7281.00 ; completed 
+68; Perry ; Wilkins ; ac.turpis@leoCrasvehicula.edu ; 184-94-808-81-43 ; 121-39-804-27-03 ; Polcenigo ; Montenegro ; 26.12.20 ; $2904.32 ; payed 
+69; Taylor ; Lowe ; ut.odio.vel@Utsagittis.co.uk ; 407-23-864-81-39 ; 194-81-738-73-99 ; Roccanova ; Ethiopia ; 27.12.19 ; $8348.00 ; shipped 
+70; Washington ; Stein ; Sed.et@felisNullatempor.com ; 872-57-187-86-49 ; 811-10-887-48-84 ; Sanghar ; Saint Vincent and The Grenadines ; 29.11.20 ; $6439.01 ; shipped 
+71; Kirby ; Hines ; nec.ante@facilisiSed.org ; 659-75-967-11-55 ; 243-37-177-98-36 ; Lingen ; China ; 02.11.20 ; $6362.95 ; shipped 
+72; Tyson ; Owens ; metus@idlibero.co.uk ; 938-29-922-11-34 ; 703-99-427-44-36 ; Comano ; Maldives ; 20.09.20 ; $9108.14 ; completed 
+73; Matthews ; House ; ac.fermentum.vel@nisi.edu ; 393-19-388-19-87 ; 542-52-920-61-81 ; Guri ; Saint Barth�lemy ; 18.07.21 ; $9042.92 ; shipped 
+74; Stanton ; Golden ; eleifend.Cras@molestieintempus.co.uk ; 894-49-568-88-12 ; 062-46-916-99-36 ; Cartago ; Egypt ; 06.09.21 ; $8389.60 ; shipped 
+75; Spencer ; Ashley ; nec.tempus.mauris@Curabitur.org ; 502-63-695-94-83 ; 602-18-945-28-95 ; Houston ; Falkland Islands ; 11.01.21 ; $8795.81 ; ordered 
+76; Stephenson ; Barrera ; gravida.sagittis.Duis@quistristiqueac.co.uk ; 613-12-821-81-15 ; 693-84-304-80-55 ; Malbaie ; Iran ; 27.02.21 ; $1334.49 ; payed 
+77; Mckinney ; Mckay ; dis.parturient.montes@Incondimentum.co.uk ; 299-14-184-01-04 ; 026-62-466-18-15 ; Lonzee ; Mali ; 31.07.21 ; $3723.89 ; shipped 
+78; Rice ; Ball ; sed@sit.org ; 799-45-558-80-00 ; 897-89-261-19-24 ; San Gregorio ; Swaziland ; 11.07.20 ; $4802.35 ; completed 
+79; Jacobs ; Oconnor ; mollis.Duis@sed.edu ; 177-71-591-42-07 ; 268-84-352-57-98 ; Str�e ; Bonaire, Sint Eustatius and Saba ; 07.09.21 ; $1528.77 ; shipped 
+80; Chambers ; Rodgers ; consequat.dolor@velitCraslorem.com ; 197-50-236-53-83 ; 795-25-284-23-90 ; Wandlitz ; Uzbekistan ; 23.08.20 ; $7749.47 ; completed 
+81; Glass ; Weaver ; Suspendisse.aliquet.molestie@enimgravidasit.com ; 100-52-585-12-20 ; 840-19-971-47-10 ; Delft ; United States Minor Outlying Islands ; 12.04.20 ; $3229.28 ; payed 
+82; Mcfadden ; Davis ; nibh@magnisdis.com ; 947-39-662-92-15 ; 811-17-247-50-48 ; Lithgow ; Saint Lucia ; 01.06.20 ; $5642.68 ; completed 
+83; Arnold ; Gregory ; pede@nondapibus.edu ; 253-69-894-32-55 ; 561-86-760-81-95 ; Biesme-sous-Thuin ; Laos ; 04.07.20 ; $7032.03 ; payed 
+84; Jones ; Ingram ; metus@sagittissemperNam.net ; 106-92-172-98-65 ; 454-72-366-42-81 ; Pointe-aux-Trembles ; Rwanda ; 11.04.21 ; $5790.86 ; completed 
+85; Dale ; Wolf ; torquent.per@auctorMauris.org ; 881-69-955-29-39 ; 571-42-202-40-64 ; Leut ; United Arab Emirates ; 21.03.20 ; $8147.65 ; shipped 
+86; Hester ; Fisher ; pretium.aliquet@ridiculusmus.com ; 975-63-547-74-72 ; 643-21-741-42-86 ; Newton Abbot ; Indonesia ; 21.11.20 ; $1311.51 ; ordered 
+87; Britt ; Ellis ; a.scelerisque.sed@magnaNam.edu ; 506-21-762-61-53 ; 561-88-981-97-92 ; Macquenoise ; Gabon ; 12.07.21 ; $5616.55 ; ordered 
+88; Langley ; Kemp ; Donec@inmolestietortor.com ; 411-72-328-41-53 ; 568-52-968-65-62 ; Gavorrano ; Afghanistan ; 05.04.21 ; $5844.56 ; ordered 
+89; Washington ; Vaughn ; placerat.orci.lacus@Mauris.edu ; 672-34-512-80-78 ; 401-10-439-86-92 ; Massa e Cozzile ; Mauritania ; 29.09.20 ; $9995.09 ; ordered 
+90; Howell ; Scott ; Vestibulum.ut@ipsum.co.uk ; 063-86-326-10-81 ; 629-70-996-88-98 ; Poviglio ; Zambia ; 19.11.20 ; $8440.67 ; shipped 
+91; Leblanc ; Case ; nunc@metus.com ; 127-80-758-71-77 ; 552-44-214-65-34 ; Veenendaal ; United States Minor Outlying Islands ; 29.01.21 ; $3583.11 ; ordered 
+92; Adams ; Gonzales ; gravida.sagittis.Duis@PraesentluctusCurabitur.ca ; 871-74-788-82-77 ; 845-97-741-00-31 ; Kusa ; Mauritania ; 19.03.21 ; $2812.15 ; payed 
+93; Whitney ; Lott ; molestie@fringillami.edu ; 939-38-771-22-18 ; 028-78-842-21-16 ; Schiltigheim ; Latvia ; 08.02.20 ; $7347.25 ; ordered 
+94; Sweeney ; Moss ; ipsum@magnaa.net ; 285-45-447-68-72 ; 504-92-259-92-03 ; Kilmarnock ; Philippines ; 18.01.20 ; $2383.46 ; shipped 
+95; Beach ; Weeks ; egestas.rhoncus.Proin@Nunclectus.org ; 768-62-988-38-59 ; 318-16-586-16-88 ; Olen ; Cameroon ; 27.11.19 ; $2574.24 ; payed 
+96; Dennis ; Small ; enim.non@nulla.com ; 442-67-487-04-02 ; 399-43-882-99-38 ; San Benedetto del Tronto ; Bahrain ; 11.11.20 ; $2471.71 ; ordered 
+97; Fletcher ; Kline ; quis.turpis.vitae@congueelitsed.net ; 876-97-929-23-88 ; 157-33-855-67-44 ; Albi ; South Sudan ; 04.02.20 ; $4377.77 ; payed 
+98; Burt ; Maldonado ; Sed.dictum@Vestibulumante.ca ; 610-37-657-53-21 ; 145-47-430-54-55 ; Tucapel ; Thailand ; 12.01.21 ; $6923.06 ; completed 
+99; Guzman ; Joseph ; convallis.ante.lectus@cursusdiam.ca ; 317-71-178-76-90 ; 079-29-241-27-78 ; Tranent ; Oman ; 30.07.21 ; $9017.55 ; ordered 
+100; Downs ; Schultz ; ac.mattis.velit@gravida.net ; 938-19-709-65-00 ; 254-95-724-30-03 ; Le Mans ; Kazakhstan ; 26.01.20 ; $7827.64 ; ordered 

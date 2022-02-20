@@ -1,0 +1,33 @@
+{
+    "John doe" :
+    {
+        "user_name": "String value",
+        "age": "Number value",
+        "user_email": {
+            "name": "String value",
+            "domen": "String value"
+        },
+        "courses": [
+            "Web", "Android", "iOS"
+        ],
+        "payed": true,
+        "class": "String value"
+    },
+
+    "Nixter" :
+    {
+        "user_name": "String value",
+        "age": "Number value",
+        "user_email": {
+            "name": "String value",
+            "domen": "String value"
+        },
+        "courses": [
+            "Web", "Android", "iOS"
+        ],
+        "payed": true,
+        "class": "String value"
+    }
+    
+}
+

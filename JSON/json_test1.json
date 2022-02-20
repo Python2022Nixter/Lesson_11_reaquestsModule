@@ -1,0 +1,19 @@
+[
+    {
+        "user_name": "String value",
+        "age": "Number value",
+        "user_email": {
+            "name": "String value",
+            "domen": "String value"
+        },
+        "courses": [
+            "Web", "Android", "iOS"
+        ],
+        "payed": true,
+        "class": "String value"
+    },
+    {
+        "dddd": [1, 2, 3]
+    }
+]
+
