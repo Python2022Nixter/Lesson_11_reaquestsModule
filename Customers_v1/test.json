@@ -1,1 +1,21 @@
-{'Phasellus.dolor.elit@lectus.co.uk': {'customer_id': 9, 'name': {'customer_first_name': 'Aguirre', 'customer_second_name': 'Vance'}, 'customer_mail': {'name': 'Phasellus.dolor.elit', 'domain': 'lectus.co.uk'}, 'tel': {'customer_phone1': '198-26-118-14-94', 'customer_phone2': '134-47-416-13-86'}, 'customer_city': 'Zittau', 'customer_country': 'Philippines', 'customer_orderdate': {'day': '04', 'month': '03', 'year': '21'}, 'customer_orderamount': '134-47-416-13-86'}}
+{
+	"Phasellus.dolor.elit@lectus.co.uk": {
+		"customer_id": 9,
+		"name": {
+			"customer_first_name": "Aguirre",
+			"customer_second_name": "Vance"
+		},
+		"customer_mail": {
+			"name": "Phasellus.dolor.elit",
+			"domain": "lectus.co.uk"
+		},
+		"tel": {
+			"customer_phone1": "198-26-118-14-94",
+			"customer_phone2": "134-47-416-13-86"
+		},
+		"customer_city": "Zittau",
+		"customer_country": "Philippines",
+		"customer_orderdate": { "day": "04", "month": "03", "year": "21" },
+		"customer_orderamount": "134-47-416-13-86"
+	}
+}

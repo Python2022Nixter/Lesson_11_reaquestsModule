@@ -22,7 +22,7 @@ print(f"EUR: {EUR}, USD: {USD}, ILS: {ILS}")
 # convert ILS to USD
 res = ILS / USD
 print(f"Shekel {ILS} / in {USD} = {res:0.2f}")
-print(f" 100 dollars in ILS = {100 * res:0.2f}")
+print(f"100 dollars in ILS = {100 * res:0.2f}")
 
 FILE_NAME = "rates.json"
 path = pathlib.Path(__file__).parent.joinpath(FILE_NAME)
