@@ -1,9 +1,7 @@
-
-
-from errno import EUSERS
 import pathlib
 import requests
 import json
+import datetime
 
 
 API_KEY = "4585446990311ad17f3ff45442c24766"
@@ -24,7 +22,7 @@ amount = ""
 check_from_currency = False
 check_to_currency = False
 check_amount = False
-
+searched_rates = {}
 
 def input_data_to_convert():
     global from_currency
@@ -83,9 +81,33 @@ print(f"{amount} {from_currency} = {res:0.2f} {to_currency}")
 
 # save to file
 
-FILE_NAME = "search_results.txt"
+FILE_NAME = "search_results.json"
 path = pathlib.Path(__file__).parent.joinpath(FILE_NAME)
 
-with open(path, "a") as f:
-    f.write(f"{amount} {from_currency} = {res:0.2f} {to_currency}\n")
+# TODO: save to JSON file.........
+def read_from_file(path):
+    with open(path, "r") as f:
+        data = json.load(f)
+        pass
+    return data
+def save_to_file(path, data):
+    with open(path, "w") as f:
+        json.dump(data, f)
+        pass
     pass
+
+def set_dict():
+    out = {
+        datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"): {
+        amount: [from_currency, to_currency],
+        "result": res
+        }
+    }
+    return out
+try:
+    searched_rates = read_from_file(path)
+    # print(searched_rates)
+except:
+    print("File is empty")
+searched_rates.update(set_dict())
+save_to_file(path, searched_rates)
