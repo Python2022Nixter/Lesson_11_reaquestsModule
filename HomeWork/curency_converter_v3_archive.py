@@ -1,11 +1,7 @@
-# currency from
-# curremcy to
-# amount to convert
-# print result
 
-# save online data to JSON file
 
-from tabnanny import check
+from errno import EUSERS
+import pathlib
 import requests
 import json
 
@@ -84,3 +80,12 @@ def find_rate(currency):
 input_data_to_convert()
 res = find_rate(to_currency) / find_rate(from_currency) * amount
 print(f"{amount} {from_currency} = {res:0.2f} {to_currency}")
+
+# save to file
+
+FILE_NAME = "search_results.txt"
+path = pathlib.Path(__file__).parent.joinpath(FILE_NAME)
+
+with open(path, "a") as f:
+    f.write(f"{amount} {from_currency} = {res:0.2f} {to_currency}\n")
+    pass
